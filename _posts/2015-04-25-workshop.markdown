@@ -1,7 +1,7 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-image: "img/nyc.jpg"
+title:  "New York, New York"
+subtitle: "Top Of The Heap"
+image: "https://lh3.googleusercontent.com/qXkZRoFtZugr9klHM9j1W2dJOvnzwq8YeMP3pcA1G4VU2a3p8Y-Et9kO70m7n4tJAQdthkkqaKROFRw=w2396-h1286-rw"
 date:   2015-04-25 12:12:12
 ---
 
