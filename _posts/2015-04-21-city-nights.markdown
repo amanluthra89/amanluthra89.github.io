@@ -4,6 +4,7 @@ subtitle: "A Beautiful shot during the night."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
+categories: ['blog']
 date:   2015-04-21 12:12:12
 ---
 

@@ -4,6 +4,7 @@ subtitle: "Only lights from space"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
+categories: ['blog']
 date:   2015-04-23 12:12:12
 ---
 

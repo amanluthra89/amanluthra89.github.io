@@ -7,7 +7,7 @@ layout: compress
     <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ site.title }}</title>
+    <title>{{ site.about_us }}</title>
     <meta name="description" content="{{ site.description }}"/>
     <meta name="keywords" content="{{ site.keywords }}"/>
     <meta name="author" content="{{ site.author }}"/>
@@ -29,49 +29,50 @@ layout: compress
 <div class="container">
     <header class="header">
         <a href='index.html'><h1>Trot.World<span>#trotwithus</span></h1></a>
-        <nav class="links">
-            <a href=about_us.html><i class="fa fa-user fa-3x"></i></a>
+        <h2>About Us</h2>
+        <!-- <nav class="links">
             <a href="http://www.twitter.com/trotdotworld"><i class="fa fa-twitter-square fa-3x"></i></a>
             <a href="https://www.instagram.com/trot.world/"><i class="fa fa-instagram fa-3x"></i></a>
             <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
-        </nav>
+            <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a>
+        </nav> -->
     </header>
     <div class="content">
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
         <div class="wrapper">
-            {% for post in site.categories.blog %}
-            <div class="card" data-id="{{ post.id }}">
-                <div class="card__container card__container--closed">
-                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
-                         xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
-                         preserveAspectRatio="xMidYMid slice">
-                        <defs>
-                            <clipPath id="{{ post.id }}-clip-path">
-                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
-                            </clipPath>
-                        </defs>
-                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
-                               xlink:href="{{ post.image }}"></image>
-                    </svg>
-                    <div class="card__content">
-                        <i class="card__btn-close fa fa-times"></i>
-                        <div class="card__caption">
-                            <h2 class="card__title">{{ post.title }}</h2>
-                            <p class="card__subtitle">{{ post.subtitle }}</p>
-                        </div>
-                        <div class="card__copy">
-                            <div class="meta">
-                                <img class="meta__avatar" src="{{ post.avatar }}"/>
-                                <span class="meta__author">{{ post.author }}</span>
-                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            {% for post in site.categories.about %}
+                <div class="card" data-id="{{ post.id }}">
+                    <div class="card__container card__container--closed">
+                        <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                             xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
+                             preserveAspectRatio="xMidYMid slice">
+                            <defs>
+                                <clipPath id="{{ post.id }}-clip-path">
+                                    <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                                </clipPath>
+                            </defs>
+                            <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                                   xlink:href="{{ post.image }}"></image>
+                        </svg>
+                        <div class="card__content">
+                            <i class="card__btn-close fa fa-times"></i>
+                            <div class="card__caption">
+                                <h2 class="card__title">{{ post.title }}</h2>
+                                <p class="card__subtitle">{{ post.subtitle }}</p>
                             </div>
-                            {{ post.content }}
+                            <div class="card__copy">
+                                <div class="meta">
+                                    <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                    <span class="meta__author">{{ post.author }}</span>
+                                    <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                                </div>
+                                {{ post.content }}
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
             {% endfor %}
             <!-- /cards -->
         </div>
