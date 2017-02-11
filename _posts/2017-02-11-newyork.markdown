@@ -1,5 +1,5 @@
 ---
-title:  "New York: A Tribute"
+title:  "New York City: A Tribute"
 subtitle: ""
 image: "img/nyc_main.jpg"
 categories: ['blog']
