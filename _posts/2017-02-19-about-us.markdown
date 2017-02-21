@@ -7,7 +7,7 @@ category: "about"
 date:   2017-02-19 12:12:12
 ---
 
-<img src="img/authors/us.jpg" style="width: 500px;"/>
+<img src="img/authors/us.jpg" style="width: 100%;"/>
 
 Hi there trotters!
 
@@ -16,14 +16,14 @@ What kind of travelers are we?
 We love nature, fresh air, peace and quiet and we enjoy staying between mountains and lots of greenery. However when it comes to nature we are a bit partial towards beach destinations as we are absolute water babies. 
 
 
-<img src="img/authors/harshita.jpg" style="width: 500px;"/>
+<img src="img/authors/harshita.jpg" style="width: 100%;"/>
 
 **Harshita**
 
-At the age of 16 I went from being a city girl to an island girl. I moved to this beautiful island in the Caribbean called Aruba that I call home and that is poles apart from Mumbai, India. But that is the best thing about traveling, it shows you new ways of life and changes the way you think. I am a major in International Tourism Management and from the hospitality industry. So yes! My education, work and desire all link back to tourism and traveling. I strongly believe that the experiences you gain while traveling and exploring new places is something that no one can ever take away from you.
+At the age of 16 I went from being a city girl to an island girl. I moved to this beautiful island in the Caribbean called Aruba that I call home and that is poles apart from Mumbai, India. But that is the best thing about traveling, it shows you new ways of life and changes the way you think. I am a major in International Tourism Management and from the hospitality industry. So yes! My education, work and desire all link back to tourism and traveling. I strongly believe that the experiences you gain while traveling and exploring new places are something that no one can ever take away from you.
 
 
-<img src="img/authors/aman.jpg" style="width: 500px;"/>
+<img src="img/authors/aman.jpg" style="width: 100%;"/>
 
 **Aman**
 

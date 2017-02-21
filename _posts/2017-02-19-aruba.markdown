@@ -10,32 +10,32 @@ date:   2017-02-19 12:12:12
 
 “Aruba Welcome to Happiness" is the sign you see as you get out of the airplane and walk towards the airport.  As you have read that line and have been hearing the stories from people on the plane of their visits year after year, you begin to wonder what draws people here repeatedly and why the island is nicknamed "One Happy Island". As you work your way through the airport formalities you are greeted and assisted by warm & friendly people and as soon as you step out, fresh cool breeze welcomes you while the sun brightly shines upon you. You begin to see the glimpse of the tag line in these few minutes of being in Aruba. Now that your luggage is loaded in the trunk of the taxi and you have your sunglasses on, you are all set to explore the "happiness". You cant wait to get a close glimpse of that glistening turquoise Caribbean water that you saw from above as your flight landed.
 
-<img src="img/aruba/aruba.jpg" style="width: 500px;"/>
+<img src="img/aruba/aruba.jpg" style="width: 100%;"/>
 
 Now as you move ahead you enter the island's capital city Oranjestad. And if you are some one who loves shopping you have already found your happiness. This area provides you with varied shopping options where you can indulge in luxury high end shopping or pick up a beautiful inexpensive souvenir from the shops near the wharf while enjoying the view of massive cruise ships and private yachts docked in front of you. Further add some sparkle to your wardrobe by visiting the many gold and diamond merchants in that area or get on a colourful hop-on hop-off tram that takes you to Main Street, where the locals shop and while you are shopping and walking in the shadow of pretty palm trees on both side of the street, taste some local snacks from the eateries in that area.
 
 
-<img src="img/aruba/downtown.jpg" style="width: 500px;"/>
+<img src="img/aruba/downtown.jpg" style="width: 100%;"/>
 
 
 If you are a water baby just like us, your dose of happy is yet to be received. As you drive ahead you finally see stretches of beautiful beaches with turquoise waters and white sand so soft that you would want to walk barefoot all day long. Now all you need to do is just spread your mat, lay under the palapas, sip on some Aruba Aribas, read your favourite book, listen to or play music all this while getting that perfect tan. (Caution: Remember to use sunscreen though as the sun can get pretty hot). Now that you have basked enough in the sun it is time to cool off and take a dip in the clear waters that will refresh you in no time. Our favourite site while swimming is watching the stork graciously dive not very far away from us in search of food. You can literally do this on a loop: tan, dive, sip cocktails, REPEAT! We do it and absolutely enjoy it! Few of our other sites while hanging out at the beach or strolling is watching the catamaran sail across the horizon, kids building sand castles; and during sunset hour on one side, watching the big fiery ball setting and becoming one with the ocean and on the other, seeing couples exchange vows and doing wedding photoshoots while others proposing to their better halves to start a new chapter of their life. (if you are planning a beach wedding this is your place!) There is just so much positivity and happy vibes on the island that you cannot help but fall in love with the place.
 
 
-<img src="img/aruba/beach.jpg" style="width: 500px;"/>
+<img src="img/aruba/beach.jpg" style="width: 100%;"/>
 
-<img src="img/aruba/beachbird.jpg" style="width: 500px;"/>
+<img src="img/aruba/beachbird.jpg" style="width: 100%;"/>
 
 Along the stretch of these beautiful beaches are also several stay options ranging from budget hotels to luxury resorts. Now that Aruba’s world class beaches and absolutely perfect sunbathing spots have you relaxed and rejuvenated, it is time to get that adrenaline pumping. There are several activities on this very strip of Palm Beach to satiate that daredevil in you. You can wander off in the ocean on a jet ski or fly high while parasailing and enjoy the shades of blue from the top. You can explore the colourful and rich marine life, corals and even see a turtle swim by if you are lucky while snorkelling at several spots on the the island. You can also dive off into the ocean and see the spectacular German shipwreck from World War II. You can even try your hand at kite surfing, wind surfing, fly boarding or even jump off a plane if you dare to (We are still building up that courage to try sky diving in our future travels). 
 
-<img src="img/aruba/snorkelfish.jpg" style="width: 500px;"/>
+<img src="img/aruba/snorkelfish.jpg" style="width: 100%;"/>
 
-<img src="img/aruba/snorkel.jpg" style="width: 500px;"/>
+<img src="img/aruba/snorkel.jpg" style="width: 100%;"/>
 
 Not sure about you all but after all these activities our stomach certainly starts to growl. Aruba is also a paradise for all you foodies out there. In addition to the lip smacking local Aruban cuisine and sea food, there are variety of restaurants offering various cuisines such as Italian, Argentinian, Mexican, Oriental, Indian and much more. 
 
 The island’s nightlife is also quite buzzing with various night clubs that help you groove to anything from salsa, bachata, merengue, to pop music and much more. Each year around the months of January- February, the island also gets in the spirit of the Carnival season. During carnival you get to enjoy sights of huge colourfully decorated floats and costumes, loud music, and days of celebration where the people of the island come together to create that electrifying ambiance.  
 
-<img src="img/aruba/carnaval.jpg" style="width: 500px;"/>
+<img src="img/aruba/carnaval.jpg" style="width: 100%;"/>
 
 
 Aruba is 19.6 miles long and 6 miles across with a total area of 70 miles and yet it has so much to offer to all it’s travellers. There is something for everybody and for all age groups. No wonder Aruba is called “One Happy Island”, how can it not be!
