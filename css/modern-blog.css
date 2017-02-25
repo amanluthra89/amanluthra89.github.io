@@ -1,5 +1,8 @@
 
 /*CARD */
+.logo-size {
+	width: 42%;
+}
 
 .card {
 	position: relative;
