@@ -1,6 +1,6 @@
 ---
-title:  "New York City: A Tribute"
-subtitle: ""
+title:  "New York City"
+subtitle: "A Tribute"
 image: "img/nyc_main.jpg"
 categories: ['blog']
 date:   2017-02-11 12:12:12
